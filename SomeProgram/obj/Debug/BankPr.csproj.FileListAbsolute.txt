@@ -1,0 +1,10 @@
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\bin\Debug\SomeProgram.exe.config
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\bin\Debug\SomeProgram.exe
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\bin\Debug\SomeProgram.pdb
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\bin\Debug\BankLibrary.dll
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\bin\Debug\BankLibrary.pdb
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\obj\Debug\BankPr.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\obj\Debug\BankPr.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\obj\Debug\BankPr.csproj.CopyComplete
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\obj\Debug\SomeProgram.exe
+C:\Users\Max\source\repos\SomeProgram\SomeProgram\obj\Debug\SomeProgram.pdb

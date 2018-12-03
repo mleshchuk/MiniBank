@@ -1,0 +1,6 @@
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\Max\source\repos\SomeProgram\BankLibrary\obj\Debug\BankLibrary.pdb
